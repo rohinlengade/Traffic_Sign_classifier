@@ -3,4 +3,4 @@ The dataset can be found here: http://benchmark.ini.rub.de/?section=gtsrb&subsec
 
 The model is trained and successfully classifies the traffic signs.
 
-Later on, to analyse the performance, Images other than the onces in the german traffic signs dataset are used.
+Later on, to analyse the performance, Images other than the ones in the german traffic signs dataset are used.
